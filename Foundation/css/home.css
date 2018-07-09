@@ -1,0 +1,22 @@
+body{
+	background: url(../img/1.jpg) no-repeat center center fixed; 
+	background-size: cover;
+}
+
+.no-margin{
+	margin-bottom: 0;
+}
+
+.line-header{
+	border-right: 1px solid lightgrey;
+}
+
+.favoritos-img{
+	margin-top: 10px;
+}
+
+.limiters{
+	border-bottom: 1px solid lightgrey;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
