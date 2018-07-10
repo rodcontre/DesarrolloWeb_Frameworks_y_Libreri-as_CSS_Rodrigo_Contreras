@@ -20,3 +20,7 @@ body{
 	margin-top: 10px;
 	margin-bottom: 10px;
 }
+
+.col-principal{
+	background-color: rgba(230, 230, 230, 0.6);
+}
