@@ -1,0 +1,67 @@
+body{background-color: #1f618d}
+.no-padding{padding: 0}
+.no-margin{margin: 0 0 0 0}
+
+.Container-Logo-RRSS{
+  background-color: black;
+  border-radius: 2px;
+}
+.Container-Navegacion{
+  background-color: #d4e6f1;
+  border-radius: 2px;
+}
+.Container-Contenido{
+  margin-top: 1rem;
+  background-color: white;
+  border-radius: 2px;
+  margin-bottom: 1rem;
+  padding-bottom: 1rem;
+}
+.Logo-img{
+  width: 100%;
+  padding-left: 8%;
+}
+.RRSS-img{
+  width: 15%;
+  margin-top: 35%;
+  margin-left: 2%;
+}
+.topnav:hover {
+  background-color: #5499c7;
+}
+.OpSearch{margin-top: 1rem}
+#Busqueda{padding-right: 15px}
+.ButtonSearch{padding: 5px 0 3px 0}
+.img-publicacion{
+  width: 100%;
+}
+.ComentarioPub{
+  margin-top: 1rem;
+}
+.Avatar{
+  width: 100%;
+  vertical-align: middle;
+}
+.textComment{
+  width: 100%;
+  margin-left: 1%;
+}
+.SendButton{
+  height: 100%;
+  width: 90%;
+  margin-left: 10%;
+}
+.publicacion{margin-top: 1rem}
+
+
+@media(max-width: 768px){
+  .Logo-img{
+    width: 40%;
+    padding-left: 0;
+  }
+  .RRSS-img{
+    width: 10%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+  }
+}
